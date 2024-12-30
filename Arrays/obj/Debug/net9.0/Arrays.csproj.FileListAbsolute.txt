@@ -1,0 +1,14 @@
+/Users/mayas/CsharpProjects/Arrays/bin/Debug/net9.0/Arrays
+/Users/mayas/CsharpProjects/Arrays/bin/Debug/net9.0/Arrays.deps.json
+/Users/mayas/CsharpProjects/Arrays/bin/Debug/net9.0/Arrays.runtimeconfig.json
+/Users/mayas/CsharpProjects/Arrays/bin/Debug/net9.0/Arrays.dll
+/Users/mayas/CsharpProjects/Arrays/bin/Debug/net9.0/Arrays.pdb
+/Users/mayas/CsharpProjects/Arrays/obj/Debug/net9.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mayas/CsharpProjects/Arrays/obj/Debug/net9.0/Arrays.AssemblyInfoInputs.cache
+/Users/mayas/CsharpProjects/Arrays/obj/Debug/net9.0/Arrays.AssemblyInfo.cs
+/Users/mayas/CsharpProjects/Arrays/obj/Debug/net9.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/mayas/CsharpProjects/Arrays/obj/Debug/net9.0/Arrays.dll
+/Users/mayas/CsharpProjects/Arrays/obj/Debug/net9.0/refint/Arrays.dll
+/Users/mayas/CsharpProjects/Arrays/obj/Debug/net9.0/Arrays.pdb
+/Users/mayas/CsharpProjects/Arrays/obj/Debug/net9.0/Arrays.genruntimeconfig.cache
+/Users/mayas/CsharpProjects/Arrays/obj/Debug/net9.0/ref/Arrays.dll

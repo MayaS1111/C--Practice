@@ -1,0 +1,14 @@
+/Users/mayas/CsharpProjects/ArrayHelpersChallenge/bin/Debug/net9.0/ArrayHelpersChallenge
+/Users/mayas/CsharpProjects/ArrayHelpersChallenge/bin/Debug/net9.0/ArrayHelpersChallenge.deps.json
+/Users/mayas/CsharpProjects/ArrayHelpersChallenge/bin/Debug/net9.0/ArrayHelpersChallenge.runtimeconfig.json
+/Users/mayas/CsharpProjects/ArrayHelpersChallenge/bin/Debug/net9.0/ArrayHelpersChallenge.dll
+/Users/mayas/CsharpProjects/ArrayHelpersChallenge/bin/Debug/net9.0/ArrayHelpersChallenge.pdb
+/Users/mayas/CsharpProjects/ArrayHelpersChallenge/obj/Debug/net9.0/ArrayHelpersChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mayas/CsharpProjects/ArrayHelpersChallenge/obj/Debug/net9.0/ArrayHelpersChallenge.AssemblyInfoInputs.cache
+/Users/mayas/CsharpProjects/ArrayHelpersChallenge/obj/Debug/net9.0/ArrayHelpersChallenge.AssemblyInfo.cs
+/Users/mayas/CsharpProjects/ArrayHelpersChallenge/obj/Debug/net9.0/ArrayHelpersChallenge.csproj.CoreCompileInputs.cache
+/Users/mayas/CsharpProjects/ArrayHelpersChallenge/obj/Debug/net9.0/ArrayHelpersChallenge.dll
+/Users/mayas/CsharpProjects/ArrayHelpersChallenge/obj/Debug/net9.0/refint/ArrayHelpersChallenge.dll
+/Users/mayas/CsharpProjects/ArrayHelpersChallenge/obj/Debug/net9.0/ArrayHelpersChallenge.pdb
+/Users/mayas/CsharpProjects/ArrayHelpersChallenge/obj/Debug/net9.0/ArrayHelpersChallenge.genruntimeconfig.cache
+/Users/mayas/CsharpProjects/ArrayHelpersChallenge/obj/Debug/net9.0/ref/ArrayHelpersChallenge.dll
